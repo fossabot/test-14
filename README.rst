@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Ftest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Ftest?ref=badge_shield)
+
 ===============================
 Boto3 - The AWS SDK for Python
 ===============================
@@ -123,3 +125,6 @@ help:
 * Come join the AWS Python community chat on `gitter <https://gitter.im/boto/boto3>`__
 * Open a support ticket with `AWS Support <https://console.aws.amazon.com/support/home#/>`__
 * If it turns out that you may have found a bug, please `open an issue <https://github.com/boto/boto3/issues/new>`__
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Ftest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Ftest?ref=badge_large)
